@@ -1,0 +1,9 @@
+name: notebook
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - awscli
+  - numpy
+  - matplotlib
